@@ -1,0 +1,2 @@
+While creepmeter research has been burst-like owing to events like the 2004 Parkfield earthquake, creepmeters are not being used less in research over time. Instead, they continue to be used, at a roughly consistent pace, and the kinds of analysis they're used for are getting more complicated.  Fully coupled frictional models, combination studies with GPS and InSAR, and the expansion of creepmeters into new realms: faults in Taiwan, Turkey, and Pakistan; landslides; salt tectonics in Canyonlands National Park.
+
